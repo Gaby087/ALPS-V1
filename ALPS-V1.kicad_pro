@@ -467,8 +467,7 @@
       "pin_not_connected": "error",
       "pin_not_driven": "error",
       "pin_to_pin": "warning",
-      "power_pin_not_driven": "error",
-      "same_local_global_label": "warning",
+      "power_pin_not_driven": "error",      "same_local_global_label": "warning",
       "similar_label_and_power": "warning",
       "similar_labels": "warning",
       "similar_power": "warning",
@@ -488,7 +487,7 @@
     "pinned_symbol_libs": []
   },
   "meta": {
-    "filename": "SimpleVoltageRegulator.kicad_pro",
+    "filename": "ALPS-V1",
     "version": 3
   },
   "net_settings": {
@@ -643,8 +642,8 @@
     "subpart_id_separator": 0,
     "top_level_sheets": [
       {
-        "filename": "SimpleVoltageRegulator.kicad_sch",
-        "name": "SimpleVoltageRegulator",
+        "filename": "ALPS-V1.kicad_sch",
+        "name": "ALPS-V1",
         "uuid": "44d5cd3f-31b0-4a7a-ba72-93b9ccaa7fe3"
       }
     ],
@@ -654,7 +653,7 @@
   "sheets": [
     [
       "44d5cd3f-31b0-4a7a-ba72-93b9ccaa7fe3",
-      "SimpleVoltageRegulator"
+      "ALPS-V1"
     ]
   ],
   "text_variables": {},
@@ -665,3 +664,4 @@
     "tuning_profiles_impedance_geometric": []
   }
 }
+
