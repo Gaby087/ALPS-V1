@@ -1,0 +1,14 @@
+# KiCad backup files
+*.lck
+*-backups/
+_autosave-*
+*.kicad_prl
+*.000
+*.bak
+
+# KiCad restore backups
+_restore_backup_*/
+
+# OS files
+.DS_Store
+Thumbs.db
