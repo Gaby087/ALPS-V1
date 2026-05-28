@@ -131,7 +131,7 @@
 		(layer "F.Cu")
 		(uuid "1c3232d1-a11c-468b-b980-ffb6315e9d75")
 		(at 139 95 -90)
-		(property "Reference" "Heavy"
+		(property "Reference" "Coarse"
 			(at -8.5 -8.5 180)
 			(layer "F.SilkS")
 			(uuid "3eb7c5d3-74a5-4bfc-8f08-d5b68ad89c61")
