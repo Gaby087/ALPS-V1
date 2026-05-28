@@ -147,7 +147,7 @@ After the regulator I use a 10μF capacitor (C2) at the output. The LM317 datash
 ![Schematic](Images/Schematic.png)
 
 ### PCB Layout
-![PCB Layout](Images/Pcb.png)
+![PCB Layout](Images/PCB.png)
 
 ### 3D Render
 ![3D Render](Images/PCB-Sup45.png)
